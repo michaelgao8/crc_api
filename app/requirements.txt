@@ -1,0 +1,9 @@
+sqlalchemy
+flask
+flask-sqlalchemy
+passlib
+pymysql
+mysql-connector
+numpy 
+xgboost
+psycopg2
