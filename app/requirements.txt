@@ -1,4 +1,5 @@
 sqlalchemy
+python-dotenv
 flask
 flask-sqlalchemy
 passlib
