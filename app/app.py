@@ -16,7 +16,7 @@ app = Flask(__name__)
 def main():
     return("Test")
 
-@app.route('/compute-individual-risk', methods=['POST'])
+@app.route('/compute-risk', methods=['POST'])
 def compute_individual_risk():
     data = request.get_json()
     hematocrit = data['hematocrit']
